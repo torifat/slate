@@ -1,4 +1,2 @@
-js-hackaton-newscred
-====================
-
-Collaborative Editing
+Slate - A Collaborative Editing Editor
+======================================
