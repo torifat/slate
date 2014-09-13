@@ -1,2 +1,2 @@
-Slate - A Collaborative Editing Editor
-======================================
+Slate - A Collaborative Editor
+==============================
